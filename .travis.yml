@@ -1,5 +1,5 @@
 language: java
-      jdk: oraclejdk8
-      script: 
-        - javac test.java
-        - java test
+jdk: oraclejdk8
+script: 
+   - javac test.java
+   - java test
